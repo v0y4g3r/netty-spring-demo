@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="712b5636-d449-4983-bf23-006eafac0f89" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -35,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -45,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -67,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/pku/netlab/client/Client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
-              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,12 +78,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="57">
+                <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -88,31 +91,68 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nettystringecho.iml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nettystringecho.iml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nettystringecho.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+            <state relative-caret-position="171">
+              <caret line="24" column="31" lean-forward="false" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="compiler.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="452" column="32" lean-forward="false" selection-start-line="452" selection-start-column="32" selection-end-line="452" selection-end-column="32" />
+              <folding>
+                <marker date="1509281523666" expanded="true" signature="54277:54319" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="54277:54337" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="54277:54350" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="54277:54365" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="54400:56717" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="54413:56702" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="54467:54762" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="54486:54747" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="54549:54727" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="54589:54693" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="54610:54671" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="54812:55121" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="54831:55106" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="54908:55086" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="54948:55052" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="54969:55030" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="55172:55528" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="55191:55513" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="55315:55493" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="55355:55459" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="55376:55437" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="55571:55884" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="55590:55869" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="55671:55849" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="55711:55815" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="55732:55793" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="55935:56299" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="55954:56284" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="56040:56264" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="56080:56230" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="56101:56208" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="56351:56688" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="56370:56673" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="56475:56653" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="56515:56619" ph="..." />
+                <marker date="1509281523666" expanded="true" signature="56536:56597" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+              <caret line="90" column="43" lean-forward="true" selection-start-line="90" selection-start-column="43" selection-end-line="90" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -122,7 +162,7 @@
         <entry file="file://$PROJECT_DIR$/.idea/smartfox_info.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -142,6 +182,8 @@
       <find>channelRead</find>
       <find>fireChannelRead</find>
       <find>$PROJECT_DIR$/../../../..</find>
+      <find>home</find>
+      <find>lei</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -155,7 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pku/netlab/client/ClientChannelHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/pku/netlab/server/ServerChannelHandler.java" />
         <option value="$PROJECT_DIR$/src/main/resources/config.properties" />
@@ -166,6 +207,9 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/pku/netlab/client/Client.java" />
         <option value="$PROJECT_DIR$/nettystringecho.iml" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -216,6 +260,12 @@
               <item name="nettystringecho" type="b2602c69:ProjectViewProjectNode" />
               <item name="nettystringecho" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nettystringecho" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nettystringecho" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="libraries" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nettystringecho" type="b2602c69:ProjectViewProjectNode" />
@@ -442,12 +492,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509246335857</updated>
-      <workItem from="1509246340139" duration="15301000" />
+      <workItem from="1509246340139" duration="15795000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15301000" />
+    <option name="totallyTimeSpent" value="15795000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="957" y="1077" width="1864" height="1084" extended-state="6" />
@@ -461,7 +511,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="1" y="776" width="898" height="679" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32848233" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14178303" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -535,14 +585,6 @@
             <element signature="e#1808#1809#0" expanded="true" />
             <element signature="e#1852#1853#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -802,15 +844,7 @@
     <entry file="file://$PROJECT_DIR$/.idea/smartfox_info.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="596" column="118" lean-forward="false" selection-start-line="596" selection-start-column="118" selection-end-line="596" selection-end-column="118" />
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -818,7 +852,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -826,7 +860,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -834,7 +868,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -852,29 +886,90 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/pku/netlab/client/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
-          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nettystringecho.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        <state relative-caret-position="171">
+          <caret line="24" column="31" lean-forward="false" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="452" column="32" lean-forward="false" selection-start-line="452" selection-start-column="32" selection-end-line="452" selection-end-column="32" />
+          <folding>
+            <marker date="1509281523666" expanded="true" signature="54277:54319" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="54277:54337" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="54277:54350" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="54277:54365" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="54400:56717" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="54413:56702" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="54467:54762" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="54486:54747" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="54549:54727" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="54589:54693" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="54610:54671" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="54812:55121" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="54831:55106" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="54908:55086" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="54948:55052" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="54969:55030" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="55172:55528" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="55191:55513" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="55315:55493" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="55355:55459" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="55376:55437" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="55571:55884" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="55590:55869" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="55671:55849" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="55711:55815" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="55732:55793" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="55935:56299" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="55954:56284" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="56040:56264" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="56080:56230" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="56101:56208" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="56351:56688" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="56370:56673" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="56475:56653" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="56515:56619" ph="..." />
+            <marker date="1509281523666" expanded="true" signature="56536:56597" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="90" column="43" lean-forward="true" selection-start-line="90" selection-start-column="43" selection-end-line="90" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
