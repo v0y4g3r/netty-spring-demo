@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="debug" strict="true" name="XMLConfigTest" packages="org.apache.logging.log4j.test">
+    <Properties>
+        <Property name="filename">target/$${date:yyyy-MM-dd}.log</Property>
+        <Property name="errorFileName">target/err-$${date:yyyy-MM-dd}.log</Property>
+    </Properties>
+    <Filter type="ThresholdFilter" level="trace"/>
+
+    <Appenders>
+        <Appender type="Console" name="STDOUT">
+            <Layout type="PatternLayout" pattern="%highlight{%d %p %m%n}"/>
+        </Appender>
+
+        <Appender type="Console" name="CONCISE_STDOUT">
+            <Layout type="PatternLayout" pattern="%highlight{%d %p %C{1.} [%t] %m%n}"/>
+        </Appender>
+
+        <!--所有的日志-->
+        <Appender type="File" name="File" fileName="${filename}" bufferedIO="true" append="true" >
+            <Layout type="PatternLayout"><Pattern>%d %p %C{1.} [%t] %m%n</Pattern></Layout>
+        </Appender>
+
+        <!--异常日志重定向-->
+        <Appender type="File" name="ErrorFile"  fileName="${errorFileName}" bufferedIO="true" append="true" >
+            <Layout type="PatternLayout"><Pattern>%d %p %C{1.} [%t] %m %throwable{full}%n</Pattern></Layout>
+        </Appender>
+    </Appenders>
+
+    <Loggers>
+        <Root level="debug">
+            <AppenderRef ref="STDOUT"/>
+            <AppenderRef ref="File"/>
+            <AppenderRef ref="ErrorFile" level="WARN"/>
+        </Root>
+    </Loggers>
+
+</Configuration>
