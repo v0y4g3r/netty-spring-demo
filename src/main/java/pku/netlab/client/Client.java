@@ -60,6 +60,7 @@ public class Client {
                 if (inputLine == null || "quit".equalsIgnoreCase(inputLine)) {
                     this.channel.close().sync();
                     shutdown();
+                    return;
                 }
                 if (inputLine.isEmpty()) continue;
                 //send to server
@@ -70,6 +71,6 @@ public class Client {
         }
     }
 
-    public void shutdown() {this.workers.shutdownGracefully();}
+    private void shutdown() {this.workers.shutdownGracefully();}
 
 }
